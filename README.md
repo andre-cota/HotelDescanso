@@ -1,9 +1,12 @@
 # HotelDescanso
 
-Trata-se de um software desenvolvido para as disciplinas: Algoritimo e Estrutura de dados I e Fundamentos de Engenharia de Software
+## Trata-se de um software desenvolvido para as disciplinas
+- Algoritimo e Estrutura de dados I 
+- Fundamentos de Engenharia de Software
+
 Curso: Engenharia de Software
 
--Codigo foi criado na IDE VSCode. Para rodar o software basta executar o arquivo main.exe (apenas em windows).
+Codigo foi criado na IDE VSCode. Para rodar o software basta executar o arquivo main.exe (apenas em windows).
 
 ## As funcionalidades do software são:
 
